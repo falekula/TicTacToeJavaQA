@@ -1,0 +1,133 @@
+2024-10-15 23:50:12 INFO  TicTacToeTest - Запуск теста: MainTest
+2024-10-15 23:50:44 INFO  TicTacToeTest - Перешли на страницу игры "Крестики-нолики".
+2024-10-15 23:50:44 INFO  TicTacToeTest - Запуск игры № 1
+2024-10-15 23:50:44 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:50:44 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:50:45 INFO  TicTacToeTest - Первый ход делает игрок: X
+2024-10-15 23:50:45 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:50:45
+2024-10-15 23:50:47 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 2] в 2024-10-15 23:50:47
+2024-10-15 23:50:48 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 2] в 2024-10-15 23:50:48
+2024-10-15 23:50:49 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 0] в 2024-10-15 23:50:49
+2024-10-15 23:50:50 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 2] в 2024-10-15 23:50:50
+2024-10-15 23:50:51 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 1] в 2024-10-15 23:50:51
+2024-10-15 23:50:52 INFO  TicTacToeTest - Игрок O победил в игре № 1!
+
+2024-10-15 23:50:52 INFO  TicTacToeTest - Игра перезапущена.
+2024-10-15 23:50:52 INFO  TicTacToeTest - Запуск игры № 2
+2024-10-15 23:50:52 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:50:52 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:50:53 INFO  TicTacToeTest - Первый ход делает игрок: O
+2024-10-15 23:50:53 INFO  TicTacToeTest - Игрок O делает ход в ячейку [1, 0] в 2024-10-15 23:50:53
+2024-10-15 23:50:54 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:50:54
+2024-10-15 23:50:55 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 0] в 2024-10-15 23:50:55
+2024-10-15 23:50:56 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 1] в 2024-10-15 23:50:56
+2024-10-15 23:50:57 INFO  TicTacToeTest - Игрок O делает ход в ячейку [2, 2] в 2024-10-15 23:50:57
+2024-10-15 23:50:58 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:50:58
+2024-10-15 23:50:59 INFO  TicTacToeTest - Игрок O делает ход в ячейку [1, 2] в 2024-10-15 23:50:59
+2024-10-15 23:51:00 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 1] в 2024-10-15 23:51:00
+2024-10-15 23:51:01 INFO  TicTacToeTest - Игрок X победил в игре № 2!
+
+2024-10-15 23:51:02 INFO  TicTacToeTest - Игра перезапущена.
+2024-10-15 23:51:02 INFO  TicTacToeTest - Запуск игры № 3
+2024-10-15 23:51:02 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:51:02 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:51:02 INFO  TicTacToeTest - Первый ход делает игрок: X
+2024-10-15 23:51:03 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 1] в 2024-10-15 23:51:03
+2024-10-15 23:51:04 INFO  TicTacToeTest - Игрок O делает ход в ячейку [2, 0] в 2024-10-15 23:51:04
+2024-10-15 23:51:05 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 0] в 2024-10-15 23:51:05
+2024-10-15 23:51:06 INFO  TicTacToeTest - Игрок O делает ход в ячейку [1, 2] в 2024-10-15 23:51:06
+2024-10-15 23:51:07 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:51:07
+2024-10-15 23:51:08 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 1] в 2024-10-15 23:51:08
+2024-10-15 23:51:09 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 2] в 2024-10-15 23:51:09
+2024-10-15 23:51:09 INFO  TicTacToeTest - Игрок O делает ход в ячейку [2, 2] в 2024-10-15 23:51:09
+2024-10-15 23:51:10 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 0] в 2024-10-15 23:51:10
+2024-10-15 23:51:11 INFO  TicTacToeTest - Игра № 3 завершилась ничьей.
+2024-10-15 23:51:12 INFO  TicTacToeTest - Игра перезапущена.
+2024-10-15 23:51:12 INFO  TicTacToeTest - Запуск игры № 4
+2024-10-15 23:51:12 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:51:12 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:51:12 INFO  TicTacToeTest - Первый ход делает игрок: O
+2024-10-15 23:51:13 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 1] в 2024-10-15 23:51:13
+2024-10-15 23:51:14 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 2] в 2024-10-15 23:51:14
+2024-10-15 23:51:15 INFO  TicTacToeTest - Игрок O делает ход в ячейку [1, 2] в 2024-10-15 23:51:15
+2024-10-15 23:51:16 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 1] в 2024-10-15 23:51:16
+2024-10-15 23:51:17 INFO  TicTacToeTest - Игрок O делает ход в ячейку [2, 2] в 2024-10-15 23:51:17
+2024-10-15 23:51:18 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:51:18
+2024-10-15 23:51:19 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 0] в 2024-10-15 23:51:19
+2024-10-15 23:51:20 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:51:20
+2024-10-15 23:51:21 INFO  TicTacToeTest - Игрок X победил в игре № 4!
+
+2024-10-15 23:51:21 INFO  TicTacToeTest - Игра перезапущена.
+2024-10-15 23:51:21 INFO  TicTacToeTest - Запуск игры № 5
+2024-10-15 23:51:21 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:51:21 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:51:22 INFO  TicTacToeTest - Первый ход делает игрок: X
+2024-10-15 23:51:22 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:51:22
+2024-10-15 23:51:23 INFO  TicTacToeTest - Игрок O делает ход в ячейку [0, 0] в 2024-10-15 23:51:23
+2024-10-15 23:51:24 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 2] в 2024-10-15 23:51:24
+2024-10-15 23:51:25 INFO  TicTacToeTest - Игрок O делает ход в ячейку [1, 2] в 2024-10-15 23:51:25
+2024-10-15 23:51:26 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:51:26
+2024-10-15 23:51:27 INFO  TicTacToeTest - Игрок X победил в игре № 5!
+
+2024-10-15 23:51:27 INFO  TicTacToeTest - Игра перезапущена.
+2024-10-15 23:51:27 INFO  TicTacToeTest - Итоги игр: 
+X побед: 3, 
+O побед: 1, 
+Ничьи: 1
+
+2024-10-15 23:51:27 INFO  TicTacToeTest - Завершение теста: MainTest
+2024-10-15 23:51:27 INFO  TicTacToeTest - Закрыли браузер.
+2024-10-15 23:51:29 INFO  TicTacToeTest - Запуск теста: testDraw
+2024-10-15 23:52:01 INFO  TicTacToeTest - Перешли на страницу игры "Крестики-нолики".
+2024-10-15 23:52:01 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:52:02 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:52:04 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 0] в 2024-10-15 23:52:04
+2024-10-15 23:52:04 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [0, 1] в 2024-10-15 23:52:04
+2024-10-15 23:52:05 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:52:05
+2024-10-15 23:52:06 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [0, 2] в 2024-10-15 23:52:06
+2024-10-15 23:52:07 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 2] в 2024-10-15 23:52:07
+2024-10-15 23:52:08 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [2, 2] в 2024-10-15 23:52:08
+2024-10-15 23:52:08 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:52:08
+2024-10-15 23:52:09 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [1, 0] в 2024-10-15 23:52:09
+2024-10-15 23:52:10 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 1] в 2024-10-15 23:52:10
+2024-10-15 23:52:10 INFO  TicTacToeTest - Игра завершилась вничью
+2024-10-15 23:52:10 INFO  TicTacToeTest - Завершение теста: testDraw
+2024-10-15 23:52:11 INFO  TicTacToeTest - Закрыли браузер.
+2024-10-15 23:52:12 INFO  TicTacToeTest - Запуск теста: testWin0
+2024-10-15 23:52:44 INFO  TicTacToeTest - Перешли на страницу игры "Крестики-нолики".
+2024-10-15 23:52:45 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:52:45 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:52:47 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 2] в 2024-10-15 23:52:47
+2024-10-15 23:52:48 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [0, 1] в 2024-10-15 23:52:48
+2024-10-15 23:52:49 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 2] в 2024-10-15 23:52:49
+2024-10-15 23:52:49 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [1, 1] в 2024-10-15 23:52:49
+2024-10-15 23:52:50 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:52:50
+2024-10-15 23:52:51 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [2, 1] в 2024-10-15 23:52:51
+2024-10-15 23:52:51 INFO  TicTacToeTest - Нолик победил
+2024-10-15 23:52:51 INFO  TicTacToeTest - Завершение теста: testWin0
+2024-10-15 23:52:51 INFO  TicTacToeTest - Закрыли браузер.
+2024-10-15 23:52:53 INFO  TicTacToeTest - Запуск теста: testWinX
+2024-10-15 23:53:25 INFO  TicTacToeTest - Перешли на страницу игры "Крестики-нолики".
+2024-10-15 23:53:26 INFO  TicTacToeTest - Выбор режима игры с другом...
+2024-10-15 23:53:26 INFO  TicTacToeTest - Режим 'Играть с другом' успешно выбран.
+2024-10-15 23:53:28 INFO  TicTacToeTest - Игрок X делает ход в ячейку [0, 2] в 2024-10-15 23:53:28
+2024-10-15 23:53:29 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [1, 0] в 2024-10-15 23:53:29
+2024-10-15 23:53:29 INFO  TicTacToeTest - Игрок X делает ход в ячейку [1, 1] в 2024-10-15 23:53:29
+2024-10-15 23:53:30 INFO  TicTacToeTest - Игрок 0 делает ход в ячейку [2, 2] в 2024-10-15 23:53:30
+2024-10-15 23:53:31 INFO  TicTacToeTest - Игрок X делает ход в ячейку [2, 0] в 2024-10-15 23:53:31
+2024-10-15 23:53:31 INFO  TicTacToeTest - Крестик победил
+2024-10-15 23:53:31 INFO  TicTacToeTest - Завершение теста: testWinX
+2024-10-15 23:53:32 INFO  TicTacToeTest - Закрыли браузер.
+2024-10-15 23:53:33 INFO  TicTacToeTest - Запуск теста: TestError
+2024-10-15 23:54:05 INFO  TicTacToeTest - Перешли на страницу игры "Крестики-нолики".
+2024-10-15 23:54:16 ERROR TicTacToeTest - Таймаут ожидания элемента: Expected condition failed: waiting for element to be clickable: By.id: nonExistentId (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-45-generic', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.58, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37201}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:37201/devtoo..., se:cdpVersion: 129.0.6668.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 34210fc6a661beaa95766b1a9b202a8e
+2024-10-15 23:54:16 INFO  TicTacToeTest - Завершение теста: TestError
+2024-10-15 23:54:16 INFO  TicTacToeTest - Создана директория для скриншотов: /home/hx/IdeaProjects/ticTacToe/screenshots/TestError
+2024-10-15 23:54:16 INFO  TicTacToeTest - Скриншот сохранен: /home/hx/IdeaProjects/ticTacToe/screenshots/TestError/screenshot_TestError_2024-10-15_23-54-16.png
+2024-10-15 23:54:16 INFO  TicTacToeTest - Скриншот сохранен: screenshot_TestError_2024-10-15_23-54-16.png
+2024-10-15 23:54:16 INFO  TicTacToeTest - Закрыли браузер.
