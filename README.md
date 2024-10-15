@@ -1,4 +1,4 @@
-```markdown
+
 # 🎮 Tic Tac Toe Automation Testing Project
 
 ## 📜 Описание
@@ -81,4 +81,3 @@ mvn allure:serve
    - **AllureId**: `001`
 
 Спасибо за интерес к этому проекту!🚀
-``` 
